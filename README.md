@@ -29,6 +29,9 @@
 <img height="20" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikorr0&theme=github_dark" />
